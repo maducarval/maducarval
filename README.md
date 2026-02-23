@@ -83,7 +83,7 @@ Atualmente, estou aprofundando meus conhecimentos em automação de testes e pr�
 
 ## 📊 Estatísticas do GitHub
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/maducarval/maducarval/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
