@@ -1,10 +1,19 @@
-# Olá! Eu sou a Maria Eduarda 👋
+<div align="center" style="max-width: 900px; margin: 0 auto;">
+  <img 
+    src="https://github.com/maducarval/maducarval/blob/main/madu.png" 
+    width="180" 
+    align="right"
+  />
+
+### Olá! Eu sou a Maria Eduarda 👋
 
 🎯 QA Engineer | Analista de Testes de Software  
-💻 Foco em Qualidade, Automação de Testes e Boas Práticas de Desenvolvimento  
-📍 Brasília - DF  
+📚 Foco em Qualidade, Automação de Testes e Boas Práticas de Desenvolvimento  
+📍 Brasília - DF
 
----
+</div>
+
+----
 
 ## 👩‍💻 Sobre mim
 
